@@ -1,0 +1,50 @@
+/Users/niels/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/bin/Debug/netstandard2.0/XamarinApp1.deps.json
+/Users/niels/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/bin/Debug/netstandard2.0/XamarinApp1.dll
+/Users/niels/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/bin/Debug/netstandard2.0/XamarinApp1.pdb
+/Users/niels/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.csprojAssemblyReference.cache
+/Users/niels/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/niels/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/HomePage.xaml.g.cs
+/Users/niels/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/niels/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.AssemblyInfoInputs.cache
+/Users/niels/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.AssemblyInfo.cs
+/Users/niels/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/niels/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.dll
+/Users/niels/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.pdb
+//Mac/Home/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/bin/Debug/netstandard2.0/XamarinApp1.deps.json
+//Mac/Home/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/bin/Debug/netstandard2.0/XamarinApp1.dll
+//Mac/Home/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/bin/Debug/netstandard2.0/XamarinApp1.pdb
+//Mac/Home/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.csproj.CoreCompileInputs.cache
+//Mac/Home/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.AssemblyInfoInputs.cache
+//Mac/Home/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.AssemblyInfo.cs
+//Mac/Home/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.dll
+//Mac/Home/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.pdb
+//Mac/Home/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/App.xaml.g.cs
+//Mac/Home/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/HomePage.xaml.g.cs
+//Mac/Home/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+//Mac/Home/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamlC.stamp
+//Mac/Home/Desktop/XamarinApp1/XamarinApp1/bin/Debug/netstandard2.0/XamarinApp1.deps.json
+//Mac/Home/Desktop/XamarinApp1/XamarinApp1/bin/Debug/netstandard2.0/XamarinApp1.dll
+//Mac/Home/Desktop/XamarinApp1/XamarinApp1/bin/Debug/netstandard2.0/XamarinApp1.pdb
+//Mac/Home/Desktop/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.csprojAssemblyReference.cache
+//Mac/Home/Desktop/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/App.xaml.g.cs
+//Mac/Home/Desktop/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/HomePage.xaml.g.cs
+//Mac/Home/Desktop/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+//Mac/Home/Desktop/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.csproj.CoreCompileInputs.cache
+//Mac/Home/Desktop/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.AssemblyInfoInputs.cache
+//Mac/Home/Desktop/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.AssemblyInfo.cs
+//Mac/Home/Desktop/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamlC.stamp
+//Mac/Home/Desktop/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.dll
+//Mac/Home/Desktop/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.pdb
+C:/Xamarin/XamarinApp1/XamarinApp1/bin/Debug/netstandard2.0/XamarinApp1.deps.json
+C:/Xamarin/XamarinApp1/XamarinApp1/bin/Debug/netstandard2.0/XamarinApp1.dll
+C:/Xamarin/XamarinApp1/XamarinApp1/bin/Debug/netstandard2.0/XamarinApp1.pdb
+C:/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.csprojAssemblyReference.cache
+C:/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/HomePage.xaml.g.cs
+C:/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.csproj.CoreCompileInputs.cache
+C:/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.AssemblyInfoInputs.cache
+C:/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.AssemblyInfo.cs
+C:/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.dll
+C:/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.pdb

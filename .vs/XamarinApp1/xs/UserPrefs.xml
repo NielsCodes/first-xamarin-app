@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{2FAAFFE9-2E59-443A-BDB9-5E6A13D6DE8C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinApp1/HomePage.xaml">
+    <Files>
+      <File FileName="XamarinApp1/HomePage.xaml" Line="11" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinApp1" expanded="True">
+            <Node name="XamarinApp1" expanded="True">
+              <Node name="HomePage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.XamarinApp1.Android PreferredExecutionTarget="Android.Pixel_2_XL_API_28" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
