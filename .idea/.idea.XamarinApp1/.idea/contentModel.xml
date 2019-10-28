@@ -23,6 +23,8 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="BookCasePage.xaml" t="Include" />
         <e p="BookCasePage.xaml.cs" t="Include" />
+        <e p="BookPage.xaml" t="Include" />
+        <e p="BookPage.xaml.cs" t="Include" />
         <e p="HomePage.xaml" t="Include" />
         <e p="HomePage.xaml.cs" t="Include" />
         <e p="MainPage.xaml" t="Include" />

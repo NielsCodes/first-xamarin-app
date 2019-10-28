@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinApp1.HomePage.xaml", "HomePage.xaml", typeof(global::XamarinApp1.HomePage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinApp1.ShelfPage.xaml", "ShelfPage.xaml", typeof(global::XamarinApp1.ShelfPage))]
 
 namespace XamarinApp1 {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("HomePage.xaml")]
-    public partial class HomePage : global::Xamarin.Forms.TabbedPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("ShelfPage.xaml")]
+    public partial class ShelfPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(HomePage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(ShelfPage));
         }
     }
 }
