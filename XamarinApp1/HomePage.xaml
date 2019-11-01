@@ -7,8 +7,14 @@
              mc:Ignorable="d"
              x:Class="XamarinApp1.HomePage">
     
-    <local:BookPage Title="Book page"/>
-    <local:BookCasePage Title="Bookcase page"/>
-    <local:ShelfPage Title="Shelf page"/>
+    <!-- Items in toolbar -->
+    <TabbedPage.ToolbarItems>
+        <ToolbarItem Text="Add +" x:Name="NewItem" Clicked="New_OnClicked"></ToolbarItem>
+    </TabbedPage.ToolbarItems>
+    
+    <!-- ContentPages in tabs -->
+    <local:BookPage Title="Books"/>
+    <local:BookCasePage Title="Bookcases"/>
+    <local:ShelfPage Title="Shelves"/>
     
 </TabbedPage>

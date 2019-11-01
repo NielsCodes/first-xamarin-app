@@ -6,6 +6,12 @@
              mc:Ignorable="d"
              x:Class="XamarinApp1.App">
     <Application.Resources>
-
+        <ResourceDictionary>
+            <Color x:Key="blueColor">#1E90FF</Color>
+            <Style TargetType="Button">
+                <Setter Property="TextColor" Value="{StaticResource blueColor}"/>
+                <Setter Property="BackgroundColor" Value="Brown"/>
+            </Style>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>

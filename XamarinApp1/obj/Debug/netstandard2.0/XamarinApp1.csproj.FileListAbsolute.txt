@@ -51,3 +51,4 @@ C:/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/XamarinApp1.pdb
 /Users/niels/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/BookCasePage.xaml.g.cs
 /Users/niels/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/BookPage.xaml.g.cs
 /Users/niels/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/ShelfPage.xaml.g.cs
+/Users/niels/Documents/Zuyd/B2D1 - Mobile applications/Xamarin/XamarinApp1/XamarinApp1/obj/Debug/netstandard2.0/ToolbarClickedPage.xaml.g.cs

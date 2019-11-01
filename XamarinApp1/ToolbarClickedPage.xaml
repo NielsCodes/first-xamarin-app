@@ -5,7 +5,7 @@
              x:Class="XamarinApp1.ToolbarClickedPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Hello, world!"
+            <Label Text="Thanks for clicking the toolbar item :)"
                    VerticalOptions="CenterAndExpand"
                    HorizontalOptions="CenterAndExpand" />
         </StackLayout>

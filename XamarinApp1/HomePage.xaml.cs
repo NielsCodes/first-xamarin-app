@@ -16,5 +16,11 @@ namespace XamarinApp1
         {
             InitializeComponent();
         }
+
+        private void New_OnClicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new ToolbarClickedPage());
+        }
+        
     }
 }

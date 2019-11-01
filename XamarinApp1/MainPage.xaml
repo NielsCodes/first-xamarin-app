@@ -21,9 +21,7 @@
         <Button 
             Text="Log in" 
             x:Name="loginButton" 
-            Clicked="LoginButton_Clicked" 
-            BackgroundColor="Chartreuse"
-            Margin="0, 20, 0, 0"/>
+            Clicked="LoginButton_Clicked" Margin="0, 20, 0, 0"/>
         
     </StackLayout>
 

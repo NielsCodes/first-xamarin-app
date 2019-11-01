@@ -38,6 +38,8 @@
         </e>
         <e p="ShelfPage.xaml" t="Include" />
         <e p="ShelfPage.xaml.cs" t="Include" />
+        <e p="ToolbarClickedPage.xaml" t="Include" />
+        <e p="ToolbarClickedPage.xaml.cs" t="Include" />
         <e p="XamarinApp1.csproj" t="IncludeRecursive" />
       </e>
       <e p="XamarinApp1.Android" t="IncludeRecursive">
